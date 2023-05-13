@@ -1,4 +1,4 @@
-Hello, I'm Bryce!
+<h1>Hello, I'm Bryce! </a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
