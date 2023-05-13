@@ -3,4 +3,4 @@ Hello, I'm Bryce!
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/brycehopkinstech/osticket-prereqs)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/brycehopkinstech/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/brycehopkinstech/osticket-ticketcycle)
