@@ -6,3 +6,4 @@ Hello, I'm Bryce!
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brycehopkinstech/osticket-ticketcycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brycehopkinstech/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brycehopkinstech/azure-network-protocols)
